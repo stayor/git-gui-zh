@@ -10,7 +10,7 @@
 
 # 工具软件
 
-1. [notepad++](https://notepad-plus-plus.org/)
+1. [Notepad3](https://www.rizonesoft.com/)
 2. [金山词霸](http://www.iciba.com/)
 3. [Typora](https://typora.io/)
 4. [BC](http://www.scootersoftware.com/)
