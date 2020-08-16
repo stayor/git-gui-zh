@@ -38,7 +38,7 @@
     * 其中，**msgid **为英文原文，**msgstr** 为翻译后的中文。
 
 # 制作过程详述
-1. 使用软件 notepad++ 打开源文件 zh\_cn.po 和 git-gui.pot  。
+1. 使用软件 Notepad3 打开源文件 zh\_cn.po 和 git-gui.pot  。
 2. 删除文件中以 **#** 开头的注释行。
 
    1. 使用 “Ctrl+H” 快捷键，调出“替换”对话框；
