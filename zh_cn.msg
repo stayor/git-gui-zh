@@ -164,6 +164,7 @@
 ::msgcat::mcset zh_cn "Default" "默认"
 ::msgcat::mcset zh_cn "Delete Branch Remotely" "删除远程分支"
 ::msgcat::mcset zh_cn "Delete Branch" "删除分支"
+::msgcat::mcset zh_cn "Delete Branch..." "删除分支..."
 ::msgcat::mcset zh_cn "Delete Files" "删除文件"
 ::msgcat::mcset zh_cn "Delete Local Branch" "删除本地分支"
 ::msgcat::mcset zh_cn "Delete Only If Merged Into" "仅在合并后删除"
